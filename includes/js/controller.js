@@ -4,8 +4,6 @@ const rpids = {
     10: "far",
     11: "sek",
     12: "bandios",
-    13: "sani",
-    14: "arzt",
     15: "flug",
     17: "blood"
 }
@@ -24,7 +22,6 @@ const urls = {
     13: "sani.json",
     14: "arzt.json",
     15: "flugschule.json",
-    16: "communitybuilder.json",
     17: "bloods.json",
 }
 
